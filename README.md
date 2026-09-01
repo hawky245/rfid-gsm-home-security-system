@@ -65,6 +65,9 @@ The RFID reader scans user cards.
 - Multi-factor authentication
 - Battery backup system
 
+## Hardware Connections
+- See [Wiring Instructions](circuit/Wiring_Instructions.md) for complete wiring details.
+
 ## Author
 
 Abhay Surya R
